@@ -1,0 +1,12 @@
+2020-04-05T10:26:21+00:00 CRITICAL Uncaught Error: Call to undefined function get_form_search() in C:\xampp\htdocs\eliteShop\wp-content\themes\flatsome-child\header.php:27
+Stack trace:
+#0 C:\xampp\htdocs\eliteShop\wp-includes\template.php(723): require_once()
+#1 C:\xampp\htdocs\eliteShop\wp-includes\template.php(672): load_template('C:\\xampp\\htdocs...', true)
+#2 C:\xampp\htdocs\eliteShop\wp-includes\general-template.php(41): locate_template(Array, true)
+#3 C:\xampp\htdocs\eliteShop\wp-content\themes\flatsome\page-blank.php(5): get_header()
+#4 C:\xampp\htdocs\eliteShop\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\eliteShop\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\eliteShop\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\eliteShop\wp-content\themes\flatsome-child\header.php on line 27
+

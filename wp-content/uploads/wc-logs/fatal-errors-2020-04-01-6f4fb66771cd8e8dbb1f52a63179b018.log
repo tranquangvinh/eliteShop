@@ -1,0 +1,28 @@
+2020-04-01T08:07:54+00:00 CRITICAL Uncaught Error: Class 'Flatsome_Option' not found in C:\xampp\htdocs\woocommerce\wp-content\themes\flatsome-child\functions.php:12
+Stack trace:
+#0 C:\xampp\htdocs\woocommerce\wp-settings.php(514): include()
+#1 C:\xampp\htdocs\woocommerce\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\woocommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\woocommerce\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\woocommerce\wp-content\themes\flatsome-child\functions.php on line 12
+
+2020-04-01T08:07:58+00:00 CRITICAL Uncaught Error: Class 'Flatsome_Option' not found in C:\xampp\htdocs\woocommerce\wp-content\themes\flatsome-child\functions.php:12
+Stack trace:
+#0 C:\xampp\htdocs\woocommerce\wp-settings.php(514): include()
+#1 C:\xampp\htdocs\woocommerce\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\woocommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\woocommerce\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\woocommerce\wp-admin\customize.php(13): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\woocommerce\wp-content\themes\flatsome-child\functions.php on line 12
+
+2020-04-01T08:08:22+00:00 CRITICAL Uncaught Error: Class 'Flatsome_Option' not found in C:\xampp\htdocs\woocommerce\wp-content\themes\flatsome-child\functions.php:12
+Stack trace:
+#0 C:\xampp\htdocs\woocommerce\wp-settings.php(514): include()
+#1 C:\xampp\htdocs\woocommerce\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\woocommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\woocommerce\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\woocommerce\wp-content\themes\flatsome-child\functions.php on line 12
+
