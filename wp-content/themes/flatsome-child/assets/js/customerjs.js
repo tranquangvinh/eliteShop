@@ -19,5 +19,9 @@ $( document ).ready(function() {
 	    width: 'auto',
 	    fit: true   
     });
+
+	$('.navbar-toggle.collapsed').click(function(){
+		$('.navbar-collapse').toggleClass('collapse');
+	});
 });
 

@@ -470,6 +470,10 @@ Version: 3.0
 	color: rgba(17,17,17,0.85) !important;
 }
 @media (max-width:768px){
+	.nav>li{
+		display: block;
+		width: 100%;
+	}
     .custom-padding .image-fade_in_back{
         height: 150px !important;
     }
