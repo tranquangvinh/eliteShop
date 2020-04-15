@@ -508,7 +508,7 @@ letter-spacing: 2px;
 /*-- //left nav --*/
 .top_nav_right {
     float: right;
-    width: 21%;
+    width: 16%;
 }
 .box_1 {
     background: #2fdab8;
@@ -3667,8 +3667,7 @@ p.w3ls_para {
 	}
 	.top_nav_right {
 		float: right;
-		width: 21%;
-		margin-top: 0.5em;
+		width: 14%;
 	}
 	.carousel-caption h2, .carousel-caption h3 {
 		font-size: 2.5em;
