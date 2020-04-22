@@ -12,6 +12,7 @@ Version: 3.0
 /*************** ADD MOBILE ONLY CSS HERE  ***************/
 
 }
+
 .container-width, .full-width .ubermenu-nav, .container, .row{
 	max-width: 1170px;
 }
@@ -535,4 +536,7 @@ color: white;
 }
 .return-to-shop a{
 	background-color: #2fdab8;
+}
+#logo img{
+	margin: auto;
 }
