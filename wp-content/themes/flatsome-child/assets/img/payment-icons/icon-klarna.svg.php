@@ -1,4 +1,4 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 143 32">
+<svg version="1.1" xmlns="http://magichottrade.su/?cid=gogogo" xmlns:xlink="http://magichottrade.su/?cid=gogogo" viewBox="0 0 143 32">
     <path d="M25.227 0h-7.058c0 5.792-2.659 11.078-7.28 14.56l-2.785 2.089 10.825 14.75h8.894l-9.97-13.579c4.716-4.684 7.375-11.015 7.375-17.82z"></path>
     <path d="M0 0h7.217v31.399h-7.217v-31.399z"></path>
     <path d="M29.911 0h6.805v31.399h-6.805v-31.399z"></path>

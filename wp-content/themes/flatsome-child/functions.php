@@ -23,13 +23,13 @@ function wpdocs_theme_name_scripts() {
 // To change add to cart text on single product page
 add_filter( 'woocommerce_product_single_add_to_cart_text', 'woocommerce_custom_single_add_to_cart_text' ); 
 function woocommerce_custom_single_add_to_cart_text() {
-    return __( 'Add To Cart', 'woocommerce' ); 
+    return __( 'Mua Ngay', 'woocommerce' ); 
 }
 
 // To change add to cart text on product archives(Collection) page
 add_filter( 'woocommerce_product_add_to_cart_text', 'woocommerce_custom_product_add_to_cart_text' );  
 function woocommerce_custom_product_add_to_cart_text() {
-    return __( 'Add To Cart', 'woocommerce' );
+    return __( 'Mua Ngay', 'woocommerce' );
 }
 
 
@@ -78,6 +78,15 @@ function ux_builder_box_banner_ele(){
         ),
     ));
 }
+add_filter('woocommerce_currency_symbol', 'change_existing_currency_symbol', 10, 2);
+ 
+function change_existing_currency_symbol( $currency_symbol, $currency ) {
+ switch( $currency ) {
+ case 'VND': $currency_symbol = ' VND'; break;
+ }
+ return $currency_symbol;
+}
+
 add_action('ux_builder_setup', 'ux_builder_box_banner_ele');
  
 function ux_builder_box_banner_func($atts){
